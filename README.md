@@ -17,7 +17,7 @@
 > Status: Developing ⚠️
 
 
-### It is a web application planned by me, where I perform the CRUD of Calisthenics Movements.
+### It is a web application planned by me, where I perform the Rich Text Editor.
 
 ## Some fields in main Model is:
 
