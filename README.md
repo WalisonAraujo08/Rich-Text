@@ -39,12 +39,11 @@ Also that:
 + Color
 + files
 
-## In addition to CRUD, I implement other features such as:
+## In addition to Rich Text, I implement other features such as:
 
-* See the more recently movement created, using Cookie.
-* Entire verification system to validate forms with personalized messages.
-* Message of success when create a movement, using Session Flash.
-* Profile User editable.
+* "Publish" button.
+* "Cancel" button.
+* "Save draft" button.
 
 ## This features are in developing:
 
