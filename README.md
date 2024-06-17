@@ -30,13 +30,14 @@
 + Align Right
 + Center
   
-Also that, has a User with this fields:
+Also that:
 
-+ name
-+ email
-+ cpf
-+ birth
-+ active
++ Emojis
++ Columns
++ List
++ Fontsize
++ Color
++ files
 
 ## In addition to CRUD, I implement other features such as:
 
