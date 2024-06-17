@@ -73,4 +73,3 @@ Also that:
 2) Use the functionalities
 3) Take a publish, cancel, or save action
 
-<center><img src=""></center>
