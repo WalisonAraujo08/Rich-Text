@@ -21,14 +21,14 @@
 
 ## Some fields in main Model is:
 
-+ name 
-+ description
-+ repetation num
-+ sequency num
-+ dificult category
-+ i know
-+ user_id
-+ image
++ Undo 
++ Redo
++ Bold
++ Italic
++ Underline
++ Align Left
++ Align Right
++ Center
   
 Also that, has a User with this fields:
 
