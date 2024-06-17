@@ -62,20 +62,15 @@ Also that:
 
 ## How to run the application:
 
-1) run shell: composer install
-2) run shell: php artisan key:generate
-3) create new Schema MySql
-4) create file .env (can copy from .env.example)
-5) configure your database variables in .env
-6) run shell: php artisan migrate
-7) run shell: php artisan serve
+1) Clone the project
+2) Install "Live Server" in Vscode
+3) Start the "live Server"
+4) Project working on port 5500
 
-## How to use mail service:
+## How to use:
 
-1) create free account in mailtrap
-2) into of mailtrap site, go to My Inbox
-3) go to SMT settigns
-4) choice Laravel option in Integrations
-5) copy and past in your .env
+1) Write your text
+2) Use the functionalities
+3) Take a publish, cancel, or save action
 
 <center><img src=""></center>
