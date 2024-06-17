@@ -1,8 +1,8 @@
 > Imagem 1:
-> Ampliada 1x
+> > Ampliada 1x
 ![header](https://github.com/WalisonAraujo08/assets/blob/main/richtext2.jpeg)
 > Imagem 1:
-> Ampliada 2x
+> > Ampliada 2x
 ![header](https://github.com/WalisonAraujo08/assets/blob/main/richtext3.jpeg)
 > Imagem 1:
 > > Ampliada 3x
