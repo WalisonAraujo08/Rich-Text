@@ -54,16 +54,9 @@ Also that, has a User with this fields:
 
 <table>
   <tr>
-    <td>PHP</td>
-    <td>Laravel</td>
-    <td>Composer</td>
-    <td>MySql</td>
-  </tr>
-  <tr>
-    <td>6.*</td>
-    <td>7.4</td>
-    <td>2.0</td>
-    <td>8.0</td>
+    <td>JavaScript</td>
+    <td>CSS</td>
+    <td>HTML</td>
   </tr>
 </table>
 
