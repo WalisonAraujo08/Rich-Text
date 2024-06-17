@@ -47,8 +47,8 @@ Also that:
 
 ## This features are in developing:
 
-- Search for movements by name and/or dificulted category.
-- Email verification.
+- Connection via API key.
+- spell checker A.I.
 
 ## Technologies Used:
 
