@@ -12,7 +12,10 @@
 
 > > > Ampliada 3x
 ![header](https://github.com/WalisonAraujo08/assets/blob/main/richtext4.jpeg)
+
+
 > Status: Developing ⚠️
+
 
 ### It is a web application planned by me, where I perform the CRUD of Calisthenics Movements.
 
