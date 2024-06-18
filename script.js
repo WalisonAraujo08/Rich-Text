@@ -38,3 +38,5 @@ function uploadFile() {
     }
     reader.readAsDataURL(file);
 }
+
+
